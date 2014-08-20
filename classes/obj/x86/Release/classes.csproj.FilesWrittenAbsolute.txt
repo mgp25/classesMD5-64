@@ -1,0 +1,6 @@
+/Users/mgp25/Projects/classes/classes/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/mgp25/Projects/classes/classes/bin/Release/Ionic.Zip.dll
+/Users/mgp25/Projects/classes/classes/bin/Release/classes.exe.mdb
+/Users/mgp25/Projects/classes/classes/bin/Release/classes.exe
+/Users/mgp25/Projects/classes/classes/obj/x86/Release/classes.exe
+/Users/mgp25/Projects/classes/classes/obj/x86/Release/classes.exe.mdb
