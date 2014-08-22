@@ -45,6 +45,8 @@ namespace classes
 			string base64hash = Convert.ToBase64String(hash);
 
 			Console.WriteLine ("ClassesMD5: " + base64hash);
+
+			stream.Close ();
 		}
 	}
 }
