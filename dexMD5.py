@@ -4,7 +4,7 @@ import zipfile
 import hashlib
 
 if len(sys.argv) < 2:
-    print("Usage: python dexMD5.py <file.apk>")
+    print("Usage: python dexMD5.py <WhatsApp.apk>")
     exit()
 else:
     apkFile = sys.argv[1]
